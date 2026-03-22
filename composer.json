@@ -1,6 +1,6 @@
 {
-    "name": "yajra/laravel-datatables-html",
-    "description": "Laravel DataTables HTML builder plugin",
+    "name": "groupesti/laravel-datatables-html",
+    "description": "Laravel DataTables HTML Builder Plugin for Laravel 13. Fork of yajra/laravel-datatables-html.",
     "keywords": [
         "yajra",
         "laravel",
@@ -18,7 +18,7 @@
     ],
     "require": {
         "ext-json": "*",
-        "yajra/laravel-datatables-oracle": "^13.0"
+        "groupesti/laravel-datatables-oracle": "^13.0"
     },
     "require-dev": {
         "larastan/larastan": "^3.1",
